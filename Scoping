@@ -1,0 +1,9 @@
+Goal: Gruppen für Firmen, in denen man anonymes Feedback an den Arbeitgeber/Mitarbeitende ... geben kann.
+
+Benötigt:
+    - Login/Logout
+    - Gruppen
+    - Gruppenadmin
+    - Anonymes Feedback (Posts)
+    - Eigene Posts löschen
+    - Admin kann Posts löschen
